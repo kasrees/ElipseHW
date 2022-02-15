@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElipseHW", "ElipseHW\ElipseHW.csproj", "{8780B678-A35C-4109-8A1B-788B53E48324}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8780B678-A35C-4109-8A1B-788B53E48324}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8780B678-A35C-4109-8A1B-788B53E48324}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8780B678-A35C-4109-8A1B-788B53E48324}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8780B678-A35C-4109-8A1B-788B53E48324}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {856D262F-03F5-4DD7-84D4-A578C6B1D821}
+	EndGlobalSection
+EndGlobal
